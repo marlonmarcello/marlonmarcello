@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is **Marlon** and I am a **Senior Front-end Web Developer** at [We The Collective](https://wethecollective.com).  
+My name is **Marlon** and I am a **Senior Front-end Web Developer**.
 
 💾 I started messing around with computers at a young age and I wrote my first piece of code when I was 14 years old.  
 👨‍💻 I've been a programmer for over **12 years** now and a front-end for over **7**.  
