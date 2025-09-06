@@ -1,5 +1,6 @@
-# Hey!
-My name is **Marlon** and I am a **Senior Full-Stack Developer** @wethegit.
+# Hi!
+
+Here is the TLDR;
 
 💾&nbsp;&nbsp;I started messing around with computers at a young age and I wrote my first piece of code when I was 14 years old.  
 
