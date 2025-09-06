@@ -8,5 +8,5 @@ My name is **Marlon** and I am a **Senior Full-Stack Developer** @wethegit.
 💙&nbsp;&nbsp;I've also always loved design and as a kid I used to draw a lot and the web allows me to also exercise that side by being able to marry design with programming and that's why it's just my work but also my passion.
 
 <!-- Social media badges -->
-[![Go to Marlon's Twitter profile](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/marlonmarcello)
+[![Go to Marlon's C profile](https://img.shields.io/badge/-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/marlonmarcello)
 [![Go to Marlon's LinkedIn profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlonmarcello/?locale=en_US)
